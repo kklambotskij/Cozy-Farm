@@ -19,7 +19,7 @@ MonoBehaviour:
   checkAdblock: 1
   fullscreenAdChallenge: 0
   staticRBTInGame: 0
-  LocalizationEnable: 1
+  LocalizationEnable: 0
   callingLanguageCheck: 0
   translateMethod: 2
   CSVFileTranslate:
@@ -27,8 +27,8 @@ MonoBehaviour:
     name: TranslateCSV
   languages:
     ru: 1
-    en: 1
-    tr: 1
+    en: 0
+    tr: 0
     az: 0
     be: 0
     he: 0
