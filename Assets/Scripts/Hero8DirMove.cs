@@ -6,7 +6,8 @@ using UnityEngine;
 [RequireComponent(typeof(Animator))]
 public class Hero8DirMove : MonoBehaviour
 {
-    [SerializeField] private float _moveSpeed = 50;
+    [SerializeField]
+    private float _moveSpeed = 50;
 
     private Vector2 _movement;
     private float x;
