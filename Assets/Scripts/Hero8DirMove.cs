@@ -9,9 +9,16 @@ public class Hero8DirMove : MonoBehaviour
     [SerializeField]
     private float _moveSpeed = 50;
 
+    [SerializeField]
+    private float _timeToIdle = 3;
+
     private Vector2 _movement;
-    private float x;
-    private float y;
+    private int x;
+    private int y;
+
+    private float _idleTimer;
+    private bool _isIdleTimerStart;
+    private bool _isIdle;
 
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
@@ -26,16 +33,31 @@ public class Hero8DirMove : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        x = Input.GetAxis("Horizontal");
-        y = Input.GetAxis("Vertical");
+        x = (int)Input.GetAxisRaw("Horizontal");
+        y = (int)Input.GetAxisRaw("Vertical");
+
+        if (x == 0 && y == 0)
+        {
+            if (!_isIdle && !_isIdleTimerStart)
+            {
+                _isIdleTimerStart = true;
+                StartCoroutine(WaitForIdle());
+            }
+        }
+        else
+        {
+            _isIdle = false;
+            _isIdleTimerStart = false;
+        }
 
         _movement.x = x;
         _movement.y = y;
 
-        _animator.SetInteger("Horizontal", (int)x);
-        _animator.SetInteger("Vertical", (int)y);
+        _animator.SetInteger("Horizontal", x);
+        _animator.SetInteger("Vertical", y);
+        _animator.SetBool("Idle", _isIdle);
     }
-
+    
     private void FixedUpdate()
     {
         _rigidbody2D.MovePosition(
@@ -45,4 +67,11 @@ public class Hero8DirMove : MonoBehaviour
             Time.fixedDeltaTime);
     }
 
+    private IEnumerator WaitForIdle()
+    {
+        yield return new WaitForSeconds(_timeToIdle);
+        _isIdle = true;
+    }
+
+    
 }

@@ -24,15 +24,11 @@ public class Plant : MonoBehaviour, IInteractable
     private void Start()
     {
         _image = GetComponent<Image>();
-        ResetData();
-    }
-
-    private void ResetData()
-    {
         _progressMaxID = _sprites.Count - 1;
         _readyToHarvest = false;
         _watered = false;
-        ChangeProgress(0);
+
+        ChangeProgress(_progressID);
     }
 
     public void NextProgress()
