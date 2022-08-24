@@ -128,7 +128,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_0
+      name: IdleDown1
       rect:
         serializedVersion: 2
         x: 0
@@ -149,7 +149,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_1
+      name: IdleDown2
       rect:
         serializedVersion: 2
         x: 48
@@ -170,7 +170,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_2
+      name: IdleDown3
       rect:
         serializedVersion: 2
         x: 96
@@ -191,7 +191,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_3
+      name: IdleDown4
       rect:
         serializedVersion: 2
         x: 144
@@ -212,7 +212,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_4
+      name: IdleDown5
       rect:
         serializedVersion: 2
         x: 192
@@ -233,7 +233,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_5
+      name: IdleDown6
       rect:
         serializedVersion: 2
         x: 240
@@ -254,7 +254,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_6
+      name: IdleDown7
       rect:
         serializedVersion: 2
         x: 288
@@ -275,7 +275,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_7
+      name: IdleDown8
       rect:
         serializedVersion: 2
         x: 336
@@ -296,7 +296,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_8
+      name: IdleUp1
       rect:
         serializedVersion: 2
         x: 0
@@ -317,7 +317,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_9
+      name: IdleUp2
       rect:
         serializedVersion: 2
         x: 48
@@ -338,7 +338,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_10
+      name: IdleUp3
       rect:
         serializedVersion: 2
         x: 96
@@ -359,7 +359,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_11
+      name: IdleUp4
       rect:
         serializedVersion: 2
         x: 144
@@ -380,7 +380,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_12
+      name: IdleUp5
       rect:
         serializedVersion: 2
         x: 192
@@ -401,7 +401,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_13
+      name: IdleUp6
       rect:
         serializedVersion: 2
         x: 240
@@ -422,7 +422,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_14
+      name: IdleUp7
       rect:
         serializedVersion: 2
         x: 288
@@ -443,7 +443,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_15
+      name: IdleUp8
       rect:
         serializedVersion: 2
         x: 336
@@ -464,7 +464,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_16
+      name: IdleLeft1
       rect:
         serializedVersion: 2
         x: 0
@@ -485,7 +485,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_17
+      name: IdleLeft2
       rect:
         serializedVersion: 2
         x: 48
@@ -506,7 +506,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_18
+      name: IdleLeft3
       rect:
         serializedVersion: 2
         x: 96
@@ -527,7 +527,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_19
+      name: IdleLeft4
       rect:
         serializedVersion: 2
         x: 144
@@ -548,7 +548,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_20
+      name: IdleLeft5
       rect:
         serializedVersion: 2
         x: 192
@@ -569,7 +569,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_21
+      name: IdleLeft6
       rect:
         serializedVersion: 2
         x: 240
@@ -590,7 +590,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_22
+      name: IdleLeft7
       rect:
         serializedVersion: 2
         x: 288
@@ -611,7 +611,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_23
+      name: IdleLeft8
       rect:
         serializedVersion: 2
         x: 336
@@ -632,7 +632,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_24
+      name: IdleRight1
       rect:
         serializedVersion: 2
         x: 0
@@ -653,7 +653,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_25
+      name: IdleRight2
       rect:
         serializedVersion: 2
         x: 48
@@ -674,7 +674,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_26
+      name: IdleRight3
       rect:
         serializedVersion: 2
         x: 96
@@ -695,7 +695,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_27
+      name: "\u043C4"
       rect:
         serializedVersion: 2
         x: 144
@@ -716,7 +716,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_28
+      name: IdleRight5
       rect:
         serializedVersion: 2
         x: 192
@@ -737,7 +737,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_29
+      name: IdleRight6
       rect:
         serializedVersion: 2
         x: 240
@@ -758,7 +758,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_30
+      name: IdleRight7
       rect:
         serializedVersion: 2
         x: 288
@@ -779,7 +779,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_31
+      name: IdleRight8
       rect:
         serializedVersion: 2
         x: 336
@@ -800,7 +800,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_32
+      name: GoDown1
       rect:
         serializedVersion: 2
         x: 0
@@ -821,7 +821,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_33
+      name: GoDown2
       rect:
         serializedVersion: 2
         x: 48
@@ -842,7 +842,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_34
+      name: GoDown3
       rect:
         serializedVersion: 2
         x: 96
@@ -863,7 +863,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_35
+      name: GoDown4
       rect:
         serializedVersion: 2
         x: 144
@@ -884,10 +884,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_36
+      name: GoDown5
       rect:
         serializedVersion: 2
-        x: 192
+        x: 193
         y: 912
         width: 48
         height: 48
@@ -905,7 +905,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_37
+      name: GoDown6
       rect:
         serializedVersion: 2
         x: 240
@@ -926,7 +926,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_38
+      name: GoDown7
       rect:
         serializedVersion: 2
         x: 288
@@ -947,7 +947,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_39
+      name: GoDown8
       rect:
         serializedVersion: 2
         x: 336
@@ -968,7 +968,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_40
+      name: GoUp1
       rect:
         serializedVersion: 2
         x: 0
@@ -989,7 +989,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_41
+      name: GoUp2
       rect:
         serializedVersion: 2
         x: 48
@@ -1010,7 +1010,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_42
+      name: GoUp3
       rect:
         serializedVersion: 2
         x: 96
@@ -1031,7 +1031,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_43
+      name: GoUp4
       rect:
         serializedVersion: 2
         x: 144
@@ -1052,7 +1052,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_44
+      name: GoUp5
       rect:
         serializedVersion: 2
         x: 192
@@ -1073,7 +1073,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_45
+      name: GoUp6
       rect:
         serializedVersion: 2
         x: 240
@@ -1094,7 +1094,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_46
+      name: GoUp7
       rect:
         serializedVersion: 2
         x: 288
@@ -1115,7 +1115,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_47
+      name: GoUp8
       rect:
         serializedVersion: 2
         x: 336
@@ -1136,7 +1136,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_48
+      name: GoRight1
       rect:
         serializedVersion: 2
         x: 0
@@ -1157,7 +1157,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_49
+      name: GoRight2
       rect:
         serializedVersion: 2
         x: 48
@@ -1178,7 +1178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_50
+      name: GoRight3
       rect:
         serializedVersion: 2
         x: 96
@@ -1199,7 +1199,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_51
+      name: GoRight4
       rect:
         serializedVersion: 2
         x: 144
@@ -1220,7 +1220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_52
+      name: GoRight5
       rect:
         serializedVersion: 2
         x: 192
@@ -1241,7 +1241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_53
+      name: GoRight6
       rect:
         serializedVersion: 2
         x: 240
@@ -1262,7 +1262,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_54
+      name: GoRight7
       rect:
         serializedVersion: 2
         x: 288
@@ -1283,7 +1283,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_55
+      name: GoRight8
       rect:
         serializedVersion: 2
         x: 336
@@ -1304,7 +1304,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_56
+      name: GoLeft1
       rect:
         serializedVersion: 2
         x: 0
@@ -1325,7 +1325,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_57
+      name: GoLeft2
       rect:
         serializedVersion: 2
         x: 48
@@ -1346,7 +1346,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_58
+      name: GoLeft3
       rect:
         serializedVersion: 2
         x: 96
@@ -1367,7 +1367,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_59
+      name: GoLeft4
       rect:
         serializedVersion: 2
         x: 144
@@ -1388,7 +1388,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_60
+      name: GoLeft5
       rect:
         serializedVersion: 2
         x: 192
@@ -1409,7 +1409,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_61
+      name: GoLeft6
       rect:
         serializedVersion: 2
         x: 240
@@ -1430,7 +1430,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_62
+      name: GoLeft7
       rect:
         serializedVersion: 2
         x: 288
@@ -1451,7 +1451,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_63
+      name: GoLeft8
       rect:
         serializedVersion: 2
         x: 336
@@ -1472,7 +1472,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_64
+      name: RunDown1
       rect:
         serializedVersion: 2
         x: 0
@@ -1493,7 +1493,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_65
+      name: RunDown2
       rect:
         serializedVersion: 2
         x: 48
@@ -1514,7 +1514,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_66
+      name: RunDown3
       rect:
         serializedVersion: 2
         x: 96
@@ -1535,7 +1535,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_67
+      name: RunDown4
       rect:
         serializedVersion: 2
         x: 144
@@ -1556,7 +1556,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_68
+      name: RunDown5
       rect:
         serializedVersion: 2
         x: 192
@@ -1577,7 +1577,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_69
+      name: RunDown6
       rect:
         serializedVersion: 2
         x: 240
@@ -1598,7 +1598,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_70
+      name: RunDown7
       rect:
         serializedVersion: 2
         x: 288
@@ -1619,7 +1619,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_71
+      name: RunDown8
       rect:
         serializedVersion: 2
         x: 336
@@ -1640,7 +1640,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_72
+      name: RunUp1
       rect:
         serializedVersion: 2
         x: 0
@@ -1661,7 +1661,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_73
+      name: RunUp2
       rect:
         serializedVersion: 2
         x: 48
@@ -1682,7 +1682,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_74
+      name: RunUp3
       rect:
         serializedVersion: 2
         x: 96
@@ -1703,7 +1703,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_75
+      name: RunUp4
       rect:
         serializedVersion: 2
         x: 144
@@ -1724,7 +1724,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_76
+      name: RunUp5
       rect:
         serializedVersion: 2
         x: 192
@@ -1745,7 +1745,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_77
+      name: RunUp6
       rect:
         serializedVersion: 2
         x: 240
@@ -1766,7 +1766,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_78
+      name: RunUp7
       rect:
         serializedVersion: 2
         x: 288
@@ -1787,7 +1787,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_79
+      name: RunUp8
       rect:
         serializedVersion: 2
         x: 336
@@ -1808,7 +1808,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_80
+      name: RunRight1
       rect:
         serializedVersion: 2
         x: 0
@@ -1829,7 +1829,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_81
+      name: RunRight2
       rect:
         serializedVersion: 2
         x: 48
@@ -1850,7 +1850,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_82
+      name: RunRight3
       rect:
         serializedVersion: 2
         x: 96
@@ -1871,7 +1871,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_83
+      name: RunRight4
       rect:
         serializedVersion: 2
         x: 144
@@ -1892,7 +1892,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_84
+      name: RunRight5
       rect:
         serializedVersion: 2
         x: 192
@@ -1913,7 +1913,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_85
+      name: RunRight6
       rect:
         serializedVersion: 2
         x: 240
@@ -1934,7 +1934,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_86
+      name: RunRight7
       rect:
         serializedVersion: 2
         x: 288
@@ -1955,7 +1955,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_87
+      name: RunRight8
       rect:
         serializedVersion: 2
         x: 336
@@ -1976,7 +1976,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_88
+      name: RunLeft1
       rect:
         serializedVersion: 2
         x: 0
@@ -1997,7 +1997,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_89
+      name: RunLeft2
       rect:
         serializedVersion: 2
         x: 48
@@ -2018,7 +2018,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_90
+      name: RunLeft3
       rect:
         serializedVersion: 2
         x: 96
@@ -2039,7 +2039,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_91
+      name: RunLeft4
       rect:
         serializedVersion: 2
         x: 144
@@ -2060,7 +2060,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_92
+      name: RunLeft5
       rect:
         serializedVersion: 2
         x: 192
@@ -2081,7 +2081,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_93
+      name: RunLeft6
       rect:
         serializedVersion: 2
         x: 240
@@ -2102,7 +2102,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_94
+      name: RunLeft7
       rect:
         serializedVersion: 2
         x: 288
@@ -2123,7 +2123,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_95
+      name: RunLeft8
       rect:
         serializedVersion: 2
         x: 336
@@ -2144,7 +2144,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_96
+      name: HoeDown1
       rect:
         serializedVersion: 2
         x: 0
@@ -2165,7 +2165,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_97
+      name: HoeDown2
       rect:
         serializedVersion: 2
         x: 48
@@ -2186,7 +2186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_98
+      name: HoeDown3
       rect:
         serializedVersion: 2
         x: 96
@@ -2207,7 +2207,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_99
+      name: HoeDown4
       rect:
         serializedVersion: 2
         x: 144
@@ -2228,7 +2228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_100
+      name: HoeDown5
       rect:
         serializedVersion: 2
         x: 192
@@ -2249,7 +2249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_101
+      name: HoeDown6
       rect:
         serializedVersion: 2
         x: 240
@@ -2270,7 +2270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_102
+      name: HoeDown7
       rect:
         serializedVersion: 2
         x: 288
@@ -2291,7 +2291,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_103
+      name: HoeDown8
       rect:
         serializedVersion: 2
         x: 336
@@ -2312,7 +2312,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_104
+      name: HoeUp1
       rect:
         serializedVersion: 2
         x: 0
@@ -2333,7 +2333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_105
+      name: HoeUp2
       rect:
         serializedVersion: 2
         x: 48
@@ -2354,7 +2354,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_106
+      name: HoeUp3
       rect:
         serializedVersion: 2
         x: 96
@@ -2375,7 +2375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_107
+      name: HoeUp4
       rect:
         serializedVersion: 2
         x: 144
@@ -2396,7 +2396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_108
+      name: HoeUp5
       rect:
         serializedVersion: 2
         x: 192
@@ -2417,7 +2417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_109
+      name: HoeUp6
       rect:
         serializedVersion: 2
         x: 240
@@ -2438,7 +2438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_110
+      name: HoeUp7
       rect:
         serializedVersion: 2
         x: 288
@@ -2459,7 +2459,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_111
+      name: HoeUp8
       rect:
         serializedVersion: 2
         x: 336
@@ -2480,7 +2480,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_112
+      name: HoeLeft1
       rect:
         serializedVersion: 2
         x: 0
@@ -2501,7 +2501,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_113
+      name: HoeLeft2
       rect:
         serializedVersion: 2
         x: 48
@@ -2522,7 +2522,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_114
+      name: HoeLeft3
       rect:
         serializedVersion: 2
         x: 96
@@ -2543,7 +2543,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_115
+      name: HoeLeft4
       rect:
         serializedVersion: 2
         x: 144
@@ -2564,7 +2564,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_116
+      name: HoeLeft5
       rect:
         serializedVersion: 2
         x: 192
@@ -2585,7 +2585,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_117
+      name: HoeLeft6
       rect:
         serializedVersion: 2
         x: 240
@@ -2606,7 +2606,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_118
+      name: HoeLeft7
       rect:
         serializedVersion: 2
         x: 288
@@ -2627,7 +2627,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_119
+      name: HoeLeft8
       rect:
         serializedVersion: 2
         x: 336
@@ -2648,7 +2648,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_120
+      name: HoeRight1
       rect:
         serializedVersion: 2
         x: 0
@@ -2669,7 +2669,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_121
+      name: HoeRight2
       rect:
         serializedVersion: 2
         x: 48
@@ -2690,7 +2690,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_122
+      name: HoeRight3
       rect:
         serializedVersion: 2
         x: 96
@@ -2711,7 +2711,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_123
+      name: HoeRight4
       rect:
         serializedVersion: 2
         x: 144
@@ -2732,7 +2732,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_124
+      name: HoeRight5
       rect:
         serializedVersion: 2
         x: 192
@@ -2753,7 +2753,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_125
+      name: HoeRight6
       rect:
         serializedVersion: 2
         x: 240
@@ -2774,7 +2774,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_126
+      name: HoeRight7
       rect:
         serializedVersion: 2
         x: 288
@@ -2795,7 +2795,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_127
+      name: HoeRight8
       rect:
         serializedVersion: 2
         x: 336
@@ -3488,7 +3488,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_160
+      name: CanDown1
       rect:
         serializedVersion: 2
         x: 0
@@ -3509,7 +3509,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_161
+      name: CanDown2
       rect:
         serializedVersion: 2
         x: 48
@@ -3530,7 +3530,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_162
+      name: CanDown3
       rect:
         serializedVersion: 2
         x: 96
@@ -3551,7 +3551,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_163
+      name: CanDown4
       rect:
         serializedVersion: 2
         x: 144
@@ -3572,7 +3572,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_164
+      name: CanDown5
       rect:
         serializedVersion: 2
         x: 192
@@ -3593,7 +3593,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_165
+      name: CanDown6
       rect:
         serializedVersion: 2
         x: 240
@@ -3614,7 +3614,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_166
+      name: CanDown7
       rect:
         serializedVersion: 2
         x: 288
@@ -3635,7 +3635,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_167
+      name: CanDown8
       rect:
         serializedVersion: 2
         x: 336
@@ -3656,7 +3656,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_168
+      name: CanUp1
       rect:
         serializedVersion: 2
         x: 0
@@ -3677,7 +3677,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_169
+      name: CanUp2
       rect:
         serializedVersion: 2
         x: 48
@@ -3698,7 +3698,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_170
+      name: CanUp3
       rect:
         serializedVersion: 2
         x: 96
@@ -3719,7 +3719,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_171
+      name: CanUp4
       rect:
         serializedVersion: 2
         x: 144
@@ -3740,7 +3740,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_172
+      name: CanUp5
       rect:
         serializedVersion: 2
         x: 192
@@ -3761,7 +3761,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_173
+      name: CanUp6
       rect:
         serializedVersion: 2
         x: 240
@@ -3782,7 +3782,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_174
+      name: CanUp7
       rect:
         serializedVersion: 2
         x: 288
@@ -3803,7 +3803,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_175
+      name: CanUp8
       rect:
         serializedVersion: 2
         x: 336
@@ -3824,7 +3824,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_176
+      name: CanLeft1
       rect:
         serializedVersion: 2
         x: 0
@@ -3845,7 +3845,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_177
+      name: CanLeft2
       rect:
         serializedVersion: 2
         x: 48
@@ -3866,7 +3866,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_178
+      name: CanLeft3
       rect:
         serializedVersion: 2
         x: 96
@@ -3887,7 +3887,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_179
+      name: CanLeft4
       rect:
         serializedVersion: 2
         x: 144
@@ -3908,7 +3908,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_180
+      name: CanLeft5
       rect:
         serializedVersion: 2
         x: 192
@@ -3929,7 +3929,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_181
+      name: CanLeft6
       rect:
         serializedVersion: 2
         x: 240
@@ -3950,7 +3950,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_182
+      name: CanLeft7
       rect:
         serializedVersion: 2
         x: 288
@@ -3971,7 +3971,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_183
+      name: CanLeft8
       rect:
         serializedVersion: 2
         x: 336
@@ -3992,7 +3992,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_184
+      name: CanRight1
       rect:
         serializedVersion: 2
         x: 0
@@ -4013,7 +4013,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_185
+      name: CanRight2
       rect:
         serializedVersion: 2
         x: 48
@@ -4034,7 +4034,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_186
+      name: CanRight3
       rect:
         serializedVersion: 2
         x: 96
@@ -4055,7 +4055,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_187
+      name: CanRight4
       rect:
         serializedVersion: 2
         x: 144
@@ -4076,7 +4076,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_188
+      name: CanRight5
       rect:
         serializedVersion: 2
         x: 192
@@ -4097,7 +4097,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_189
+      name: CanRight6
       rect:
         serializedVersion: 2
         x: 240
@@ -4118,7 +4118,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_190
+      name: CanRight7
       rect:
         serializedVersion: 2
         x: 288
@@ -4139,7 +4139,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Premium Charakter Spritesheet_191
+      name: CanRight8
       rect:
         serializedVersion: 2
         x: 336
@@ -4170,198 +4170,198 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Premium Charakter Spritesheet_189: 1649891497
-      Premium Charakter Spritesheet_53: -257139070
-      Premium Charakter Spritesheet_172: -598149379
+      RunLeft8: 960996466
+      HoeUp8: -1299991654
+      IdleDown3: -537438714
       Premium Charakter Spritesheet_148: -1973638702
-      Premium Charakter Spritesheet_104: -1980633517
-      Premium Charakter Spritesheet_166: 1076224629
-      Premium Charakter Spritesheet_86: -310776790
-      Premium Charakter Spritesheet_119: 1040155618
+      CanLeft6: -958563189
+      CanLeft8: 817483179
+      HoeLeft1: 1308364789
+      IdleLeft8: 1312360253
+      IdleLeft6: -1517112083
       Premium Charakter Spritesheet_129: -1508482702
-      Premium Charakter Spritesheet_109: 1817489349
-      Premium Charakter Spritesheet_88: -1133870332
+      RunLeft3: 677637760
+      CanUp6: 854822881
+      RunRight1: -1647537695
+      HoeLeft4: 1937583418
       Premium Charakter Spritesheet_137: -1519473829
-      Premium Charakter Spritesheet_62: 1192332637
-      Premium Charakter Spritesheet_17: 1048519706
-      Premium Charakter Spritesheet_23: 1312360253
-      Premium Charakter Spritesheet_8: 1032555442
-      Premium Charakter Spritesheet_24: 845543891
-      Premium Charakter Spritesheet_74: -738052502
-      Premium Charakter Spritesheet_56: -32591638
-      Premium Charakter Spritesheet_91: -133032834
-      Premium Charakter Spritesheet_26: 903029096
-      Premium Charakter Spritesheet_55: -1254402950
-      Premium Charakter Spritesheet_84: -32560553
-      Premium Charakter Spritesheet_89: 575745021
-      Premium Charakter Spritesheet_79: 1280549765
-      Premium Charakter Spritesheet_82: 1264991256
-      Premium Charakter Spritesheet_94: 1407849728
-      Premium Charakter Spritesheet_72: -1804665124
+      IdleUp6: -333786491
+      IdleRight6: 1489544614
+      GoLeft1: -32591638
+      HoeDown3: -878801982
+      IdleDown5: 849799539
+      HoeLeft7: -808482632
+      RunRight4: -1387572206
+      RunUp1: -1804665124
+      RunDown5: 519286337
+      CanDown8: 1295165539
+      GoRight3: -252886792
       Premium Charakter Spritesheet_134: -812721304
-      Premium Charakter Spritesheet_52: 1062961953
-      Premium Charakter Spritesheet_117: 530504690
-      Premium Charakter Spritesheet_68: 519286337
-      Premium Charakter Spritesheet_11: -2100856932
-      Premium Charakter Spritesheet_15: -231328573
-      Premium Charakter Spritesheet_112: 1308364789
-      Premium Charakter Spritesheet_185: -979730707
-      Premium Charakter Spritesheet_7: 745980579
-      Premium Charakter Spritesheet_183: 817483179
-      Premium Charakter Spritesheet_175: 1528867067
-      Premium Charakter Spritesheet_170: 561369137
-      Premium Charakter Spritesheet_30: 540410020
-      Premium Charakter Spritesheet_85: -25993122
+      CanRight5: 1129386941
+      "\u043C4": 294398021
+      RunLeft1: -1133870332
+      RunDown3: -432135115
+      CanDown6: -2123971638
+      IdleUp8: -231328573
+      IdleLeft5: -156757610
+      IdleRight5: -2062974704
+      IdleUp3: -1120321563
+      IdleLeft3: -345367251
+      HoeUp6: 1817489349
+      CanUp3: 561369137
+      IdleLeft4: -375040709
+      CanLeft4: -1178409836
+      RunDown2: -1798884842
+      HoeDown1: 1666794644
+      CanUp1: -849246165
+      HoeDown7: -907507841
+      CanLeft3: 348340789
+      IdleLeft1: -1222519683
+      IdleRight3: 903029096
+      GoDown8: -367445228
       Premium Charakter Spritesheet_157: 1457733877
-      Premium Charakter Spritesheet_66: -432135115
+      HoeDown5: 395973116
+      IdleUp1: 1032555442
+      CanDown1: 1333108020
+      CanRight1: -227893503
       Premium Charakter Spritesheet_140: 202776212
-      Premium Charakter Spritesheet_5: -595893640
-      Premium Charakter Spritesheet_64: -1572569719
-      Premium Charakter Spritesheet_9: 726038376
-      Premium Charakter Spritesheet_107: -1631905449
-      Premium Charakter Spritesheet_73: 967968124
-      Premium Charakter Spritesheet_44: -2081027891
-      Premium Charakter Spritesheet_165: -2123971638
-      Premium Charakter Spritesheet_4: 849799539
-      Premium Charakter Spritesheet_48: -1332329295
-      Premium Charakter Spritesheet_96: 1666794644
+      RunRight6: -25993122
+      HoeDown6: -1223536344
+      GoDown6: -719213767
+      CanUp4: -403140466
+      HoeRight4: 698162084
+      RunRight2: -1107534604
+      GoLeft7: 1192332637
+      GoUp2: -517015768
+      IdleRight7: 540410020
+      RunDown1: -1572569719
+      HoeRight5: 653569834
       Premium Charakter Spritesheet_150: 1981909777
-      Premium Charakter Spritesheet_34: -1109693683
+      HoeUp3: 2041081052
+      GoRight8: -1254402950
       Premium Charakter Spritesheet_138: -811419703
-      Premium Charakter Spritesheet_40: 2029576355
-      Premium Charakter Spritesheet_2: -537438714
-      Premium Charakter Spritesheet_47: 294486105
-      Premium Charakter Spritesheet_75: 1301404976
-      Premium Charakter Spritesheet_39: -367445228
+      RunUp7: -105717255
+      IdleUp7: 1641855423
+      GoRight6: -257139070
+      IdleDown7: 1130148225
+      GoDown7: 1789885366
+      GoRight4: 1569637190
+      HoeDown8: 1523959639
+      HoeRight7: 1913943591
+      CanRight4: 1246170562
+      IdleRight1: 845543891
+      RunLeft5: -1657829506
       Premium Charakter Spritesheet_151: 2060699545
-      Premium Charakter Spritesheet_121: 1457532230
+      HoeRight1: -1409530578
       Premium Charakter Spritesheet_143: -626884816
-      Premium Charakter Spritesheet_179: -1178409836
-      Premium Charakter Spritesheet_186: 1616152230
+      GoRight2: 2134877176
       Premium Charakter Spritesheet_154: 164350131
-      Premium Charakter Spritesheet_114: -1098528481
-      Premium Charakter Spritesheet_77: 1888139982
-      Premium Charakter Spritesheet_10: -1120321563
-      Premium Charakter Spritesheet_106: 2041081052
-      Premium Charakter Spritesheet_116: 316724459
-      Premium Charakter Spritesheet_57: -95222680
+      HoeUp1: -1980633517
+      RunLeft2: 575745021
+      HoeUp5: -1090389582
+      HoeRight3: 301731271
+      CanUp7: 1309891652
+      GoLeft5: 1376536922
+      GoRight7: -187287042
+      GoDown1: 338689341
+      CanRight7: 472932709
+      GoDown4: -2028590957
+      RunLeft6: 1860798231
       Premium Charakter Spritesheet_159: 1801037534
-      Premium Charakter Spritesheet_190: 472932709
+      RunUp2: 967968124
+      CanLeft2: 1550485898
       Premium Charakter Spritesheet_146: 1946439908
-      Premium Charakter Spritesheet_71: 1066892984
-      Premium Charakter Spritesheet_45: 423921224
-      Premium Charakter Spritesheet_95: 960996466
+      HoeLeft6: 530504690
       Premium Charakter Spritesheet_130: 186497790
-      Premium Charakter Spritesheet_37: -719213767
-      Premium Charakter Spritesheet_61: 233962560
+      HoeRight2: 1457532230
+      HoeRight8: -102220715
       Premium Charakter Spritesheet_142: 1559289137
       Premium Charakter Spritesheet_139: 669785390
-      Premium Charakter Spritesheet_78: -105717255
-      Premium Charakter Spritesheet_60: 1376536922
-      Premium Charakter Spritesheet_120: -1409530578
-      Premium Charakter Spritesheet_36: 388562660
+      HoeRight6: 59123465
+      RunDown6: 1708854694
       Premium Charakter Spritesheet_131: -1003215903
-      Premium Charakter Spritesheet_25: 1693229506
-      Premium Charakter Spritesheet_113: -184742676
-      Premium Charakter Spritesheet_169: -2030010458
+      RunRight5: -32560553
+      CanDown4: -465528872
       Premium Charakter Spritesheet_147: -13526805
-      Premium Charakter Spritesheet_19: -375040709
-      Premium Charakter Spritesheet_176: -1166412071
-      Premium Charakter Spritesheet_171: -403140466
-      Premium Charakter Spritesheet_124: 653569834
-      Premium Charakter Spritesheet_81: -1107534604
-      Premium Charakter Spritesheet_182: -1043480691
-      Premium Charakter Spritesheet_38: 1789885366
-      Premium Charakter Spritesheet_93: 1860798231
-      Premium Charakter Spritesheet_65: -1798884842
+      CanRight2: -979730707
+      GoLeft3: -441529977
+      HoeUp4: -1631905449
+      IdleDown6: -595893640
+      RunRight3: 1264991256
       Premium Charakter Spritesheet_135: -512445094
-      Premium Charakter Spritesheet_118: -808482632
-      Premium Charakter Spritesheet_105: -356037970
-      Premium Charakter Spritesheet_46: -1600270230
-      Premium Charakter Spritesheet_100: 395973116
-      Premium Charakter Spritesheet_163: -465528872
-      Premium Charakter Spritesheet_51: 1569637190
-      Premium Charakter Spritesheet_125: 59123465
+      HoeLeft2: -184742676
+      CanRight8: 1555111411
+      IdleDown2: -1629084819
+      HoeUp7: 26701778
+      CanRight3: 1616152230
+      GoLeft4: -1931849964
+      IdleDown1: -713779843
       Premium Charakter Spritesheet_141: 941830530
-      Premium Charakter Spritesheet_115: 1937583418
-      Premium Charakter Spritesheet_191: 1555111411
-      Premium Charakter Spritesheet_49: 2134877176
-      Premium Charakter Spritesheet_181: -958563189
+      IdleRight8: 1568511118
+      RunRight7: -310776790
+      HoeDown4: 1394124258
+      RunUp5: 1443331570
+      IdleLeft2: 1048519706
+      GoUp7: -1600270230
       Premium Charakter Spritesheet_136: 1674085194
-      Premium Charakter Spritesheet_178: 348340789
-      Premium Charakter Spritesheet_102: -907507841
-      Premium Charakter Spritesheet_29: 1489544614
-      Premium Charakter Spritesheet_20: -156757610
       Premium Charakter Spritesheet_132: 1534417416
-      Premium Charakter Spritesheet_69: 1708854694
-      Premium Charakter Spritesheet_21: -1517112083
-      Premium Charakter Spritesheet_32: 338689341
-      Premium Charakter Spritesheet_14: 1641855423
-      Premium Charakter Spritesheet_162: 419174354
-      Premium Charakter Spritesheet_41: -517015768
+      RunDown4: -628483315
       Premium Charakter Spritesheet_145: -1139966997
-      Premium Charakter Spritesheet_174: 1309891652
+      RunLeft4: -133032834
+      GoLeft2: -95222680
       Premium Charakter Spritesheet_128: 960471796
-      Premium Charakter Spritesheet_54: -187287042
-      Premium Charakter Spritesheet_31: 1568511118
-      Premium Charakter Spritesheet_67: -628483315
-      Premium Charakter Spritesheet_63: -589467432
-      Premium Charakter Spritesheet_160: 1333108020
-      Premium Charakter Spritesheet_42: -1421269397
-      Premium Charakter Spritesheet_87: 762886568
-      Premium Charakter Spritesheet_188: 1129386941
-      Premium Charakter Spritesheet_83: -1387572206
-      Premium Charakter Spritesheet_58: -441529977
-      Premium Charakter Spritesheet_50: -252886792
+      RunUp3: -738052502
+      GoLeft8: -589467432
       Premium Charakter Spritesheet_153: 2051338264
+      RunUp8: 1280549765
+      IdleLeft7: -246461065
+      GoLeft6: 233962560
       Premium Charakter Spritesheet_158: 1939170002
-      Premium Charakter Spritesheet_167: 1295165539
-      Premium Charakter Spritesheet_110: 26701778
-      Premium Charakter Spritesheet_187: 1246170562
-      Premium Charakter Spritesheet_108: -1090389582
-      Premium Charakter Spritesheet_70: -1900459817
-      Premium Charakter Spritesheet_133: -251845877
-      Premium Charakter Spritesheet_123: 698162084
-      Premium Charakter Spritesheet_177: 1550485898
-      Premium Charakter Spritesheet_1: -1629084819
-      Premium Charakter Spritesheet_149: -1936131757
-      Premium Charakter Spritesheet_35: -2028590957
-      Premium Charakter Spritesheet_122: 301731271
-      Premium Charakter Spritesheet_18: -345367251
-      Premium Charakter Spritesheet_43: 985130330
-      Premium Charakter Spritesheet_59: -1931849964
+      GoUp8: 294486105
+      IdleRight2: 1693229506
+      HoeUp2: -356037970
+      GoRight1: -1332329295
       Premium Charakter Spritesheet_156: 1047451544
-      Premium Charakter Spritesheet_16: -1222519683
-      Premium Charakter Spritesheet_173: 854822881
-      Premium Charakter Spritesheet_6: 1130148225
-      Premium Charakter Spritesheet_184: -227893503
-      Premium Charakter Spritesheet_13: -333786491
-      Premium Charakter Spritesheet_28: -2062974704
-      Premium Charakter Spritesheet_101: -1223536344
-      Premium Charakter Spritesheet_164: -379307063
-      Premium Charakter Spritesheet_97: -69687242
+      Premium Charakter Spritesheet_133: -251845877
+      GoUp1: 2029576355
+      GoUp3: -1421269397
+      CanLeft1: -1166412071
+      Premium Charakter Spritesheet_149: -1936131757
+      CanLeft5: 1999162780
+      IdleUp5: -1336568942
+      CanDown7: 1076224629
+      IdleUp4: -2100856932
+      CanDown2: 2120862340
+      CanRight6: 1649891497
+      RunRight8: 762886568
+      IdleDown4: 41688641
+      RunUp6: 1888139982
+      RunLeft7: 1407849728
+      HoeLeft5: 316724459
+      CanDown3: 419174354
       Premium Charakter Spritesheet_155: -1883531121
-      Premium Charakter Spritesheet_0: -713779843
-      Premium Charakter Spritesheet_161: 2120862340
-      Premium Charakter Spritesheet_76: 1443331570
+      IdleUp2: 726038376
+      GoDown3: -1109693683
+      GoUp4: 985130330
+      CanUp2: -2030010458
       Premium Charakter Spritesheet_152: 551244767
-      Premium Charakter Spritesheet_33: -1071502822
-      Premium Charakter Spritesheet_99: 1394124258
-      Premium Charakter Spritesheet_12: -1336568942
-      Premium Charakter Spritesheet_127: -102220715
+      CanDown5: -379307063
+      GoDown5: 388562660
+      CanUp5: -598149379
+      GoRight5: 1062961953
       Premium Charakter Spritesheet_144: 559184778
-      Premium Charakter Spritesheet_111: -1299991654
-      Premium Charakter Spritesheet_3: 41688641
-      Premium Charakter Spritesheet_90: 677637760
-      Premium Charakter Spritesheet_168: -849246165
-      Premium Charakter Spritesheet_27: 294398021
-      Premium Charakter Spritesheet_80: -1647537695
-      Premium Charakter Spritesheet_22: -246461065
-      Premium Charakter Spritesheet_92: -1657829506
-      Premium Charakter Spritesheet_180: 1999162780
-      Premium Charakter Spritesheet_126: 1913943591
-      Premium Charakter Spritesheet_98: -878801982
-      Premium Charakter Spritesheet_103: 1523959639
+      RunUp4: 1301404976
+      GoUp5: -2081027891
+      CanLeft7: -1043480691
+      HoeLeft8: 1040155618
+      HoeDown2: -69687242
+      RunDown7: -1900459817
+      IdleDown8: 745980579
+      GoDown2: -1071502822
+      HoeLeft3: -1098528481
+      GoUp6: 423921224
+      RunDown8: 1066892984
+      CanUp8: 1528867067
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
