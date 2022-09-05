@@ -61,14 +61,14 @@ public class Plant : MonoBehaviour, IInteractable
 
     public void ToWater()
     {
-        Destroy(Instantiate(
-           _waterDropParticle,
-           transform.position,
-           _waterDropParticle.transform.rotation,
-           transform), 1);
-
         if (!_watered)
         {
+            Destroy(Instantiate(
+               _waterDropParticle,
+               transform.position,
+               _waterDropParticle.transform.rotation,
+               transform), 1);
+
             _watered = true;
             StartCoroutine(Growing());
         }
@@ -84,10 +84,7 @@ public class Plant : MonoBehaviour, IInteractable
         yield return null;
     }
 
-    public bool IsReadyToHarvest()
-    {
-        return _readyToHarvest;
-    }
+    public bool IsReadyToHarvest => _readyToHarvest;
 
     public void OnHarvest()
     {
@@ -99,6 +96,19 @@ public class Plant : MonoBehaviour, IInteractable
 
     public void OnInteract()
     {
-        ToWater();
+        if (IsReadyToHarvest)
+        {
+            ToHarvest();
+        }
+        else
+        {
+            ToWater();
+        }
+    }
+
+    private void ToHarvest()
+    {
+        ChangeProgress(0);
+        _readyToHarvest = false;
     }
 }

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7306290368835160964}
   - component: {fileID: 7306290368835160967}
   - component: {fileID: 2419002908806557048}
-  m_Layer: 5
+  m_Layer: 3
   m_Name: Carrot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -107,7 +107,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -121,5 +121,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 50, y: 50}
+  m_Size: {x: 25, y: 25}
   m_EdgeRadius: 0
