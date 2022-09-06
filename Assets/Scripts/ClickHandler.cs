@@ -1,4 +1,3 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -12,7 +11,7 @@ public class ClickHandler : MonoBehaviour
 
     private void Awake()
     {
-        if (Instance != null)
+        if (Instance is not null)
         {
             Destroy(this);
         }
@@ -25,21 +24,6 @@ public class ClickHandler : MonoBehaviour
         {
             target = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             OnClick.Invoke(target);
-        }
-    }
-
-    private void SetAction()
-    {
-        RaycastHit2D hit = Physics2D.Raycast(target, Vector2.zero);
-        if (hit.collider != null)
-        {
-            print(hit.collider.name);
-            IInteractable interactable =
-                hit.collider.GetComponent<IInteractable>();
-            if (interactable != null)
-            {
-                interactable.OnInteract();
-            }
         }
     }
 }
