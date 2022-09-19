@@ -18,7 +18,7 @@ public class HeroController : MonoBehaviour
     private Rigidbody2D _rigidbody2D;
     private Animator _animator;
 
-    protected void Start()
+    private void Start()
     {
         _rigidbody2D = GetComponent<Rigidbody2D>();
         _animator = GetComponent<Animator>();
@@ -43,8 +43,16 @@ public class HeroController : MonoBehaviour
         _movement.x = x;
         _movement.y = y;
 
-        _animator.SetInteger("Horizontal", (int)x);
-        _animator.SetInteger("Vertical", (int)y);
+        if (Mathf.Abs(_movement.x) >= Mathf.Abs(_movement.y))
+        {
+            _animator.SetInteger("Horizontal", System.Math.Sign(x));
+            _animator.SetInteger("Vertical", 0);
+        }
+        else
+        {
+            _animator.SetInteger("Horizontal", 0);
+            _animator.SetInteger("Vertical", System.Math.Sign(y));
+        }
         _animator.SetBool("Idle", _isIdle);
     }
 

@@ -9,12 +9,6 @@ public class HeroTranslate : HeroController
 
     private UnityAction OnEndMove;
 
-    protected new void Start()
-    {
-        base.Start();
-        ClickHandler.Instance.OnClick.AddListener(SetMoveTarget);
-    }
-
     public void SetMoveTarget(Vector3 vector3)
     {
         target = vector3;
@@ -39,12 +33,14 @@ public class HeroTranslate : HeroController
     private IEnumerator MoveHeroIgnoringObstacles()
     {
         Vector3 whereToMove = (target - transform.position).normalized;
-        while (Vector2.Distance(transform.position, target) > 0.01)
+        while (Vector2.Distance(transform.position, target) > 0.1)
         {
             Move(whereToMove.x, whereToMove.y);
             yield return new WaitForFixedUpdate();
         }
+        
         Move(0, 0);
+        
         if (OnEndMove is not null)
         {
             OnEndMove.Invoke();
