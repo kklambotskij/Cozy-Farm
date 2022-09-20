@@ -1,20 +1,21 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.Events;
 
 public class HeroTranslate : HeroController
 {
-    [SerializeField]
-    private Vector3 target;
+    protected virtual void SetPath(Vector3 target) { }
+    protected void EndMove() 
+    {
+        if (OnEndMove is not null)
+        {
+            OnEndMove.Invoke();
+        }
+    }
 
     private UnityAction OnEndMove;
 
     public void SetMoveTarget(Vector3 vector3)
     {
-        target = vector3;
-        StopCoroutine(MoveHeroIgnoringObstacles());
-        StartCoroutine(MoveHeroIgnoringObstacles());
-
         OnEndMove = null;
 
         RaycastHit2D hit = Physics2D.Raycast(vector3, Vector2.zero);
@@ -27,23 +28,11 @@ public class HeroTranslate : HeroController
             {
                 OnEndMove = () => interactable.OnInteract();
             }
+            SetPath((Vector2)hit.transform.position);
         }
-    }
-
-    private IEnumerator MoveHeroIgnoringObstacles()
-    {
-        Vector3 whereToMove = (target - transform.position).normalized;
-        while (Vector2.Distance(transform.position, target) > 0.1)
+        else
         {
-            Move(whereToMove.x, whereToMove.y);
-            yield return new WaitForFixedUpdate();
-        }
-        
-        Move(0, 0);
-        
-        if (OnEndMove is not null)
-        {
-            OnEndMove.Invoke();
+            SetPath(vector3);
         }
     }
 }
